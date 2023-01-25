@@ -1,0 +1,13 @@
+@mixin font($font-size, $font-weight: 700, $line-height: 1.5) {
+    font-family: "San Francisco Pro";
+    font-size: $font-size;
+    font-weight: $font-weight;
+    line-height: $line-height;
+    font-style: normal;
+}
+
+@mixin flex($justify: center) {
+    display: flex;
+    justify-content: $justify;
+    align-items: center;
+}

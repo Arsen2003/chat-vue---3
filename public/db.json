@@ -1,0 +1,92 @@
+{
+  "chats": [
+    {
+      "id": 0,
+      "name": "Alberta Reyes",
+      "date": "12:45",
+      "isOnline": true,
+      "lastMessage": "Adwords Keyword Research For Beginners",
+      "profileImg": "https://drive.google.com/uc?export=view&id=1ZU3ZLI_mwWamZQAuVIxm5jngc-wcwKHL",
+      "channels": [
+        
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Andrew Bass",
+      "date": "11:41",
+      "isOnline": false,
+      "lastMessage": "There is a lot of exciting stuff going on in the stars",
+      "profileImg": "https://drive.google.com/uc?export=view&id=1ZU3ZLI_mwWamZQAuVIxm5jngc-wcwKHL"
+    },
+    {
+      "id": 2,
+      "name": "Floyd Lloyd",
+      "date": "10:45",
+      "isOnline": true,
+      "lastMessage": "There is a lot of exciting",
+      "profileImg": "https://drive.google.com/uc?export=view&id=1ZU3ZLI_mwWamZQAuVIxm5jngc-wcwKHL"
+    },
+    {
+      "id": 3,
+      "name": "Lisa Manoban",
+      "date": "14:35",
+      "isOnline": false,
+      "lastMessage": "There is a lot of exciting stuff going on in the stars above us that make astronomy",
+      "profileImg": "https://drive.google.com/uc?export=view&id=1ZU3ZLI_mwWamZQAuVIxm5jngc-wcwKHL"
+    },
+    {
+      "id": 4,
+      "name": "Jennie Kim",
+      "date": "12:45",
+      "isOnline": true,
+      "lastMessage": "Adwords Keyword Research For Beginners",
+      "profileImg": "https://drive.google.com/uc?export=view&id=1ZU3ZLI_mwWamZQAuVIxm5jngc-wcwKHL"
+    },
+    {
+      "id": 5,
+      "name": "Roseanne Park",
+      "date": "13:45",
+      "isOnline": true,
+      "lastMessage": "Adwords Keyword Research For Beginners",
+      "profileImg": "https://drive.google.com/uc?export=view&id=1ZU3ZLI_mwWamZQAuVIxm5jngc-wcwKHL"
+    },
+    {
+      "id": 6,
+      "name": "Felix Chen",
+      "date": "20:45",
+      "isOnline": false,
+      "lastMessage": "Adwords Keyword Research For Beginners",
+      "profileImg": "https://drive.google.com/uc?export=view&id=1ZU3ZLI_mwWamZQAuVIxm5jngc-wcwKHL"
+    },
+    {
+      "id": 7,
+      "name": "Alberta Reyes",
+      "date": "12:45",
+      "isOnline": true,
+      "lastMessage": "There is a lot of exciting",
+      "profileImg": "https://drive.google.com/uc?export=view&id=1ZU3ZLI_mwWamZQAuVIxm5jngc-wcwKHL"
+    },
+    {
+      "id": 8,
+      "name": "BangChan",
+      "date": "08:45",
+      "isOnline": false,
+      "lastMessage": "Understand",
+      "profileImg": "https://drive.google.com/uc?export=view&id=1ZU3ZLI_mwWamZQAuVIxm5jngc-wcwKHL"
+    },
+    {
+      "id": 9,
+      "name": "Som Somi",
+      "date": "07:45",
+      "isOnline": false,
+      "lastMessage": "Adwords Keyword Research For Beginners",
+      "profileImg": "https://drive.google.com/uc?export=view&id=1ZU3ZLI_mwWamZQAuVIxm5jngc-wcwKHL"
+    }
+  ],
+  "users": [
+    {
+      "name": ""
+    }
+  ]
+}
